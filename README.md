@@ -34,6 +34,7 @@ gathered in step 4.9
 8. Repeat Step 1 to 7 for all below characters
 'special', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T',
 'U', 'V', 'W', 'X', 'Y', 'Z'
+
 You can refer the below array for sample of data:
 {
 AnimeId: 1,
