@@ -1,0 +1,28 @@
+=======Scrape tags for anime_id with single episodes==========
+url: https://animeseries.so/anime/hackgu-returner.html
+{'AnimeId': 1, 
+'AnimeName': '.Hack//G.U. Returner', 
+'Description': 'hack//G.U. Returner is a single-episode OVA offered to fans who completed all three GU Games, featuring characters from the .hack//G.U. Games and .hack//Roots.', 
+'Status': 'Completed', 
+'releaseYear': '2007', 
+'Genre': 'Adventure,Drama,Game,Harem,Martial Arts,Seinen', 
+'Slug': 'hackgu-returner', 
+'AnimeImage': 'https://gogocdn.net/images/anime/5745.jpg', 
+'TotalEpisodes': 1, 
+'EpisodeLinks': ['https://animeseries.so/watch/hackgu-returner-episode-1.html'], 
+'EpisodeData': {'AnimeId': 1, 'EpisodeNumber': 8, 'EpisodeIframeArray': ['//gogoplay.io/streaming.php?id=NDA3OTI=&title=.Hack%2F%2FG.U.+Returner+episode+1&typesub=SUB', '//gogoplay.io/embedplus?id=NDA3OTI=&token=G1muECYOYCqtOB5EWXCGKw&expires=1641893113', 'https://sbplay2.com/e/env0jxmpf678', 'https://hydrax.net/watch?v=ZzJf3-Ua0', 'https://fembed-hd.com/v/8ylw3u8ld72r-4r', 'https://www.mp4upload.com/embed-e5t1flv0otkb.html', 'https://www.yourupload.com/embed/5U8C888IAc4w', 'https://dood.ws/e/pkjocerv9ic3']}}
+
+
+========Scrape tags for anime_id with multiple episodes==========
+url: https://animeseries.so/anime/hackliminality-dub.html
+{'AnimeId': 6, 
+'AnimeName': '.hack//Liminality (Dub)', 
+'Description': 'While playing the newly released MMORPG "The World," Minase Mai and Tomonari Kasumi collapsed in the real world and were sent to the hospital after hearing a mysterious sound. Only Mai had recovered while her friend Kasumi had slipped into a mysterious coma. Mai is later approached by the creator of "The World," Tokuoka Junichiro, who unveils to her that, just like her friend, six other players across the country had also collapsed while playing "The World" and are now in mysterious comas. What exactly is "The World," what is this mysterious sound Mai keeps on hearing, and why are people slipping into comas from this game? Minase, Junichiro and their acquaintances set off to get to the bottom of this problem before any further harm happens.', 
+'Status': 'Completed', 
+'releaseYear': '2002', 
+'Genre': 'Game,Mystery,Sci-Fi', 
+'Slug': 'hackliminality-dub', 
+'AnimeImage': 'https://gogocdn.net/cover/hackliminality-dub.png', 
+'TotalEpisodes': 4, 
+'EpisodeLinks': ['https://animeseries.so/watch/hackliminality-dub-episode-4.html', 'https://animeseries.so/watch/hackliminality-dub-episode-3.html', 'https://animeseries.so/watch/hackliminality-dub-episode-2.html', 'https://animeseries.so/watch/hackliminality-dub-episode-1.html'], 
+'EpisodeData': {'AnimeId': 6, 'EpisodeNumber': 5, 'EpisodeIframeArray': ['//gogoplay.io/streaming.php?id=MTYzMDU4&title=.hack%2F%2FLiminality+%28Dub%29+episode+4&typesub=DUB', '//gogoplay.io/embedplus?id=MTYzMDU4&token=HS3kqpqpF3eApbnK2Hjyzw&expires=1641893116', 'https://sbplay2.com/e/7vt25sqwdvba', 'https://fembed-hd.com/v/kyjk1s310nj-e74', 'https://mixdrop.co/e/gn1v689xhwd33d1', 'https://dood.ws/e/ww5mkyclfqc5', '//gogoplay.io/streaming.php?id=MTYzMDU3&title=.hack%2F%2FLiminality+%28Dub%29+episode+3&typesub=DUB', '//gogoplay.io/embedplus?id=MTYzMDU3&token=nuSGVI2I_K2ztDethKrYQw&expires=1641893118', 'https://sbplay2.com/e/08fkvws7okb7', 'https://fembed-hd.com/v/-z2p3uplqr28048', 'https://mixdrop.co/e/3n8lkz7rfmmx1q1', 'https://dood.ws/e/ecse6vm2nbkc', '//gogoplay.io/streaming.php?id=MTYzMDU2&title=.hack%2F%2FLiminality+%28Dub%29+episode+2&typesub=DUB', '//gogoplay.io/embedplus?id=MTYzMDU2&token=S6B5LSPHWCedssiP_TS3nA&expires=1641893119', 'https://sbplay2.com/e/w4ihd0n9vvag', 'https://fembed-hd.com/v/ry7jrse4x2m84jl', 'https://mixdrop.co/e/4n8wlgmehgk1zv', 'https://dood.ws/e/8pun10rqlujz', '//gogoplay.io/streaming.php?id=MTYzMDU1&title=.hack%2F%2FLiminality+%28Dub%29+episode+1&typesub=DUB', '//gogoplay.io/embedplus?id=MTYzMDU1&token=pYwLwf3NBob-LX_udnNFEA&expires=1641893120', 'https://sbplay2.com/e/30hn8hqmvqv4', 'https://fembed-hd.com/v/47dlpfz70kj03gr', 'https://dood.ws/e/9i55wr5iwp3x']}}
